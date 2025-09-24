@@ -1,0 +1,9 @@
+# Listado de archivos que contienen el patron: instrucciones
+# Generado el: Tue Sep 23 21:18:40 CST 2025
+# Directorio: /Users/rope89/Library/Mobile Documents/com~apple~CloudDocs/CODE/TecMi/BashFunciones
+=========================================
+
+text_search.txt
+
+=========================================
+# Total de archivos encontrados: 1
